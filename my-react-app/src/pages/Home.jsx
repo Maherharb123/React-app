@@ -9,7 +9,7 @@ function Home() {
     setProducts([
       { id: 1, name: 'Product 1', price: 29.99, image: '/images/pic1.jpg' },
       { id: 2, name: 'Product 2', price: 49.99, image: '/images/pic2.jpg' },
-      // Add more products
+     
     ]);
   }, []);
 
